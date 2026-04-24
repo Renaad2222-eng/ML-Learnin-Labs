@@ -1,1 +1,3 @@
+What Was Done
+
 In this lab, we analyzed a LendingClub loan dataset to predict whether a borrower will fully repay a loan or not. We started with exploratory data analysis to understand relationships between variables such as FICO score, interest rate, and loan purpose using different visualizations. Then, we prepared the data by converting categorical features into numerical form using dummy variables and splitting the dataset into training and testing sets. After that, we built two machine learning models: a Decision Tree and a Random Forest classifier. Finally, we evaluated both models using a confusion matrix and classification report, and found that the Random Forest performed better overall because it is more accurate and less prone to overfitting.
