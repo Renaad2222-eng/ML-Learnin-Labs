@@ -1,4 +1,5 @@
 what was done
+
 In this lab, we analyzed the Iris dataset to classify flower species into three categories: setosa, versicolor, and virginica.
 
 We started with exploratory data analysis to understand the relationships between features such as sepal length and sepal width using visualizations like pairplots and KDE plots.
